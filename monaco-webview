@@ -1,0 +1,21 @@
+<body>
+
+<h1>Тестовая страница с несколькими урлами<br></h1>
+
+<p>Сперва просто прямой длинный урл: <a href="https://wink.rt.ru/media_items/23042810?access=253024773">https://wink.rt.ru/media_items/23042810?access=253024773</a></p>
+
+<p>А теперь короткий урл через клик.ру:<a href="https://clck.ru/TAVqf">https://clck.ru/TAVqf</a></p>
+
+<p>А теперь они же оба два, но упрятанные под текст:</p>
+
+<p><a href="https://wink.rt.ru/media_items/23042810?access=253024773">Длинный</a></p>
+
+<p>А потом</p><p><a href="https://clck.ru/TAVqf">Короткий</a></p>
+
+<p>А теперь они же оба снова но с target=blank:</p>
+
+<p><a href="https://wink.rt.ru/media_items/23042810?access=253024773" target="_blank">Длинный с таргет-бланк</a></p>
+
+<p>А потом</p><p><a href="https://clck.ru/TAVqf" target="_blank">Короткий с таргет-бланк</a></p>
+
+</body>
